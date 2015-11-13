@@ -1,0 +1,48 @@
+import json
+import smtplib
+import requests
+import constants as c
+from email.mime.text import MIMEText
+import time
+import os
+
+filename = "data_dumps/" + str(time.strftime('%b%d-%Y-%H%M%S')) + '.txt'
+f = open(filename, 'a+')
+with open('va_stores.json') as file:
+    data = json.load(file)
+    count = 0
+    for store in data:
+
+        for product_name, product_id in c.products.iteritems():
+            try:
+                r = requests.get("https://www.abc.virginia.gov/api/stores/inventory/" + str(store["StoreId"]) + "/" + product_id)
+            except IOError as err:
+                continue
+            if r.status_code == requests.codes.ok:
+                resp = r.json()
+                if resp["products"][0]["storeInfo"]["quantity"] > 0:
+                    f.write(str(count) + " of 352: Store " + str(resp["products"][0]["storeInfo"]["storeId"]) + " has " +
+                            str(resp["products"][0]["storeInfo"]["quantity"]) + " bottle(s) of " + product_name + "\n")
+                    f.write("Address: " + store["Address"]["Address1"] + ", " + store["Address"]["City"] + store["Address"]["Zipcode"] + "\n")
+                    f.write("Phone: " + store["PhoneNumber"]["FormattedPhoneNumber"] + "\n")
+                    f.write("\n")
+            else:
+                # r.raise_for_status()
+                continue
+        count += 1
+f.close()
+
+if os.stat(filename).st_size > 0:
+    fp = open(filename, 'rb')
+    msg = MIMEText(fp.read())
+    fp.close()
+
+    server = smtplib.SMTP('smtp.gmail.com', 587)
+    server.ehlo()
+    server.starttls()
+    server.login(c.email_addr, c.email_pwd)
+
+    msg['Subject'] = 'dat pappy'
+    msg['To'] = 'Bourbon Ninjas'
+
+    server.sendmail(c.email_addr, c.recipients, msg.as_string())

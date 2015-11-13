@@ -1,0 +1,4 @@
+.idea/
+data_dumps/
+bad_stores.json
+constants.py
