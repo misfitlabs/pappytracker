@@ -1,0 +1,2004 @@
+[
+  {
+        "StoreId": 33,
+        "Address": {
+            "Address1": "12631 Galveston Court",
+            "ShoppingCenter": "Shops at County Center",
+            "City": "Manassas ",
+            "State": "VA",
+            "Zipcode": "20112"
+        },
+        "Latitude": 38.680032,
+        "Longitude": -77.364809,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "580",
+            "LineNumber": "5785",
+            "FormattedPhoneNumber": "(703) 580-5785"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+  },
+  {
+        "StoreId": 36,
+        "Address": {
+            "Address1": "8038 and 8044 Crescent Park Drive",
+            "ShoppingCenter": "The Marketplace at Madison Crescent",
+            "City": "Gainesville ",
+            "State": "VA",
+            "Zipcode": "20155"
+        },
+        "Latitude": 38.784524,
+        "Longitude": -77.663457,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "753",
+            "LineNumber": "1642",
+            "FormattedPhoneNumber": "(703) 753-1642"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+  },
+  {
+        "StoreId": 40,
+        "Address": {
+            "Address1": "22000 Dulles Retail Plaza",
+            "ShoppingCenter": "Dulles 28 Centre Shopping Center",
+            "City": "Sterling ",
+            "State": "VA",
+            "Zipcode": "20166"
+        },
+        "Latitude": 39.005647,
+        "Longitude": -77.437956,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "404",
+            "LineNumber": "7394",
+            "FormattedPhoneNumber": "(703) 404-7394"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 41,
+        "Address": {
+            "Address1": "12950 Highland Crossing Drive",
+            "ShoppingCenter": "Woodland Park Crossing",
+            "City": "Herndon ",
+            "State": "VA",
+            "Zipcode": "20171"
+        },
+        "Latitude": 38.94934,
+        "Longitude": -77.394385,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "481",
+            "LineNumber": "7021",
+            "FormattedPhoneNumber": "(703) 481-7021"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 42,
+        "Address": {
+            "Address1": "7469 and 7471 Richmond Highway",
+            "ShoppingCenter": "Mount Vernon Square Shopping Center",
+            "City": "Alexandria ",
+            "State": "VA",
+            "Zipcode": "22306"
+        },
+        "Latitude": 38.755063,
+        "Longitude": -77.081679,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "718",
+            "LineNumber": "2322",
+            "FormattedPhoneNumber": "(703) 718-2322"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 45,
+        "Address": {
+            "Address1": "8428 Old Keene Mill Road",
+            "ShoppingCenter": "OLD KEENE MILL S.C.",
+            "City": "Springfield ",
+            "State": "VA",
+            "Zipcode": "22152"
+        },
+        "Latitude": 38.779667,
+        "Longitude": -77.236372,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "569",
+            "LineNumber": "3945",
+            "FormattedPhoneNumber": "(703) 569-3945"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 49,
+        "Address": {
+            "Address1": "881 North Quincy Street",
+            "ShoppingCenter": "THE BALLSTON 880 CONDOMINIUM",
+            "City": "Arlington ",
+            "State": "VA",
+            "Zipcode": "22203"
+        },
+        "Latitude": 38.880873,
+        "Longitude": -77.107523,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "875",
+            "LineNumber": "0137",
+            "FormattedPhoneNumber": "(703) 875-0137"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 54,
+        "Address": {
+            "Address1": "42015 Village Center Plaza",
+            "ShoppingCenter": "STONE RIDGE VILLAGE CENTER",
+            "City": "Stone Ridge ",
+            "State": "VA",
+            "Zipcode": "20105"
+        },
+        "Latitude": 38.939663,
+        "Longitude": -77.549334,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "327",
+            "LineNumber": "8681",
+            "FormattedPhoneNumber": "(703) 327-8681"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 55,
+        "Address": {
+            "Address1": "9934 Liberia Avenue",
+            "ShoppingCenter": "Davis Ford Crossing Shopping Center",
+            "City": "Manassas ",
+            "State": "VA",
+            "Zipcode": "20110"
+        },
+        "Latitude": 38.742924,
+        "Longitude": -77.452387,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "530",
+            "LineNumber": "7130",
+            "FormattedPhoneNumber": "(703) 530-7130"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 61,
+        "Address": {
+            "Address1": "22360 S. Sterling Boulevard",
+            "ShoppingCenter": "Sterling Plaza Shopping Center",
+            "City": "Sterling ",
+            "State": "VA",
+            "Zipcode": "20164"
+        },
+        "Latitude": 38.997212,
+        "Longitude": -77.408413,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "404",
+            "LineNumber": "7362",
+            "FormattedPhoneNumber": "(703) 404-7362"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 62,
+        "Address": {
+            "Address1": "1416 Carl D. Silver Parkway",
+            "ShoppingCenter": "Central Park Shopping Center",
+            "City": "Fredericksburg ",
+            "State": "VA",
+            "Zipcode": "22401"
+        },
+        "Latitude": 38.302169,
+        "Longitude": -77.508395,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "540",
+            "Prefix": "548",
+            "LineNumber": "1043",
+            "FormattedPhoneNumber": "(540) 548-1043"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 63,
+        "Address": {
+            "Address1": "8951 Ox Road",
+            "ShoppingCenter": "The Shoppes of Lorton Valley Shopping Center",
+            "City": "Lorton ",
+            "State": "VA",
+            "Zipcode": "22079-3216"
+        },
+        "Latitude": 38.715012,
+        "Longitude": -77.262083,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "690",
+            "LineNumber": "5890",
+            "FormattedPhoneNumber": "(703) 690-5890"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 64,
+        "Address": {
+            "Address1": "43 Town and Country Drive",
+            "ShoppingCenter": "Town and Country Marketplace",
+            "City": "Fredericksburg ",
+            "State": "VA",
+            "Zipcode": "22405"
+        },
+        "Latitude": 38.309253,
+        "Longitude": -77.427034,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "540",
+            "Prefix": "899",
+            "LineNumber": "4224",
+            "FormattedPhoneNumber": "(540) 899-4224"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 73,
+        "Address": {
+            "Address1": "43150 Broadlands Center Plaza",
+            "ShoppingCenter": "Broadlands Village Center",
+            "City": "Ashburn ",
+            "State": "VA",
+            "Zipcode": "20148"
+        },
+        "Latitude": 39.027094,
+        "Longitude": -77.509306,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "723",
+            "LineNumber": "4163",
+            "FormattedPhoneNumber": "(703) 723-4163"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 74,
+        "Address": {
+            "Address1": "10857 & 10859 Tidewater Trail",
+            "ShoppingCenter": "The Shops at River Club",
+            "City": "Fredericksburg ",
+            "State": "VA",
+            "Zipcode": "22408"
+        },
+        "Latitude": 38.255656,
+        "Longitude": -77.426884,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "540",
+            "Prefix": "899",
+            "LineNumber": "4462",
+            "FormattedPhoneNumber": "(540) 899-4462"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 76,
+        "Address": {
+            "Address1": "1212 West Broad Street",
+            "ShoppingCenter": "Falls Plaza Shopping Center",
+            "City": "Falls Church ",
+            "State": "VA",
+            "Zipcode": "22046"
+        },
+        "Latitude": 38.894293,
+        "Longitude": -77.188188,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "536",
+            "LineNumber": "1624",
+            "FormattedPhoneNumber": "(703) 536-1624"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 78,
+        "Address": {
+            "Address1": "5331 Merchants View Square",
+            "ShoppingCenter": "Dominion Valley Market Square SC",
+            "City": "Haymarket ",
+            "State": "VA",
+            "Zipcode": "20169"
+        },
+        "Latitude": 38.844371,
+        "Longitude": -77.641598,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "571",
+            "Prefix": "248",
+            "LineNumber": "8246",
+            "FormattedPhoneNumber": "(571) 248-8246"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 80,
+        "Address": {
+            "Address1": "6206 Little River Turnpike",
+            "ShoppingCenter": "Plaza At Landmark Shopping Center",
+            "City": "Alexandria ",
+            "State": "VA",
+            "Zipcode": "22312"
+        },
+        "Latitude": 38.819946,
+        "Longitude": -77.137666,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "813",
+            "LineNumber": "1527",
+            "FormattedPhoneNumber": "(703) 813-1527"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 82,
+        "Address": {
+            "Address1": "46930 Cedar Lakes Plaza",
+            "ShoppingCenter": "The Shops At Cedar Lake",
+            "City": "Sterling ",
+            "State": "VA",
+            "Zipcode": "20164"
+        },
+        "Latitude": 39.017901,
+        "Longitude": -77.375771,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "404",
+            "LineNumber": "7396",
+            "FormattedPhoneNumber": "(703) 404-7396"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 83,
+        "Address": {
+            "Address1": "7263-B Arlington Boulevard",
+            "ShoppingCenter": "Graham Park Plaza",
+            "City": "Falls Church ",
+            "State": "VA",
+            "Zipcode": "22042"
+        },
+        "Latitude": 38.86503,
+        "Longitude": -77.196683,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "207",
+            "LineNumber": "7372",
+            "FormattedPhoneNumber": "(703) 207-7372"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 84,
+        "Address": {
+            "Address1": "13053-E Lee Jackson Hwy",
+            "ShoppingCenter": "Greenbriar Town Center",
+            "City": "Fairfax ",
+            "State": "VA",
+            "Zipcode": "22033"
+        },
+        "Latitude": 38.87964,
+        "Longitude": -77.399726,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "803",
+            "LineNumber": "0044",
+            "FormattedPhoneNumber": "(703) 803-0044"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 85,
+        "Address": {
+            "Address1": "2930 Chain Bridge Road",
+            "ShoppingCenter": "Oakton Shopping Center",
+            "City": "Oakton ",
+            "State": "VA",
+            "Zipcode": "22124"
+        },
+        "Latitude": 38.882823,
+        "Longitude": -77.300223,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "242",
+            "LineNumber": "2627",
+            "FormattedPhoneNumber": "(703) 242-2627"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 90,
+        "Address": {
+            "Address1": "12965 Fair Lakes Shopping Center",
+            "ShoppingCenter": "Fair Lakes Shopping Center",
+            "City": "Fairfax ",
+            "State": "VA",
+            "Zipcode": "22033"
+        },
+        "Latitude": 38.858989,
+        "Longitude": -77.389159,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "803",
+            "LineNumber": "0049",
+            "FormattedPhoneNumber": "(703) 803-0049"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 93,
+        "Address": {
+            "Address1": "6124 Rose Hill Drive",
+            "ShoppingCenter": "Rose Hill Plaza Shopping Center",
+            "City": "Alexandria ",
+            "State": "VA",
+            "Zipcode": "22310"
+        },
+        "Latitude": 38.784552,
+        "Longitude": -77.122259,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "313",
+            "LineNumber": "6610",
+            "FormattedPhoneNumber": "(703) 313-6610"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 94,
+        "Address": {
+            "Address1": "42385 Ryan Road",
+            "ShoppingCenter": "Brambleton Town Center Shopping Center",
+            "City": "Ashburn ",
+            "State": "VA",
+            "Zipcode": "20148"
+        },
+        "Latitude": 38.986206,
+        "Longitude": -77.536962,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "327",
+            "LineNumber": "4437",
+            "FormattedPhoneNumber": "(703) 327-4437"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 95,
+        "Address": {
+            "Address1": "10025 Jefferson Davis Highway",
+            "ShoppingCenter": "Cosners Corner Shopping Center",
+            "City": "Fredericksburg ",
+            "State": "VA",
+            "Zipcode": "22407"
+        },
+        "Latitude": 38.223665,
+        "Longitude": -77.505672,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "540",
+            "Prefix": "710",
+            "LineNumber": "2022",
+            "FormattedPhoneNumber": "(540) 710-2022"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 99,
+        "Address": {
+            "Address1": "601 Post Drive",
+            "ShoppingCenter": "Herndon Marketplace",
+            "City": "Herndon ",
+            "State": "VA",
+            "Zipcode": "20170"
+        },
+        "Latitude": 38.966919,
+        "Longitude": -77.37588,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "326",
+            "LineNumber": "2217",
+            "FormattedPhoneNumber": "(703) 326-2217"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 109,
+        "Address": {
+            "Address1": "1922 Wilson Boulevard",
+            "ShoppingCenter": "1919 Clarendon Building",
+            "City": "Arlington ",
+            "State": "VA",
+            "Zipcode": "22201"
+        },
+        "Latitude": 38.892554,
+        "Longitude": -77.08179,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "571",
+            "Prefix": "312",
+            "LineNumber": "2596",
+            "FormattedPhoneNumber": "(571) 312-2596"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 111,
+        "Address": {
+            "Address1": "5722 Union Mill Road",
+            "ShoppingCenter": "Colonnade at Union Mill Shopping Center",
+            "City": "Clifton ",
+            "State": "VA",
+            "Zipcode": "20124"
+        },
+        "Latitude": 38.83382,
+        "Longitude": -77.414422,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "803",
+            "LineNumber": "0060",
+            "FormattedPhoneNumber": "(703) 803-0060"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 119,
+        "Address": {
+            "Address1": "901 North St. Asaph Street",
+            "ShoppingCenter": "",
+            "City": "Alexandria ",
+            "State": "VA",
+            "Zipcode": "22314"
+        },
+        "Latitude": 38.814332,
+        "Longitude": -77.043257,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "549",
+            "LineNumber": "0700",
+            "FormattedPhoneNumber": "(703) 549-0700"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 120,
+        "Address": {
+            "Address1": "5926 Kingstowne Center",
+            "ShoppingCenter": "Kingstowne Towne Center",
+            "City": "Kingstowne ",
+            "State": "VA",
+            "Zipcode": "22315"
+        },
+        "Latitude": 38.771389,
+        "Longitude": -77.138841,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "921",
+            "LineNumber": "5111",
+            "FormattedPhoneNumber": "(703) 921-5111"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 121,
+        "Address": {
+            "Address1": "507 William Street",
+            "ShoppingCenter": "",
+            "City": "Fredericksburg ",
+            "State": "VA",
+            "Zipcode": "22401-5746"
+        },
+        "Latitude": 38.302398,
+        "Longitude": -77.463233,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "540",
+            "Prefix": "899",
+            "LineNumber": "4141",
+            "FormattedPhoneNumber": "(540) 899-4141"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 127,
+        "Address": {
+            "Address1": "13300-C Franklin Farm Road",
+            "ShoppingCenter": "Franklin Farm Village Center",
+            "City": "Herndon ",
+            "State": "VA",
+            "Zipcode": "20171"
+        },
+        "Latitude": 38.907476,
+        "Longitude": -77.404673,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "326",
+            "LineNumber": "2201",
+            "FormattedPhoneNumber": "(703) 326-2201"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 131,
+        "Address": {
+            "Address1": "6920-E Bradlick Shopping Center",
+            "ShoppingCenter": "Bradlick Shopping Center",
+            "City": "Annandale ",
+            "State": "VA",
+            "Zipcode": "22003"
+        },
+        "Latitude": 38.813034,
+        "Longitude": -77.184136,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "813",
+            "LineNumber": "1535",
+            "FormattedPhoneNumber": "(703) 813-1535"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 133,
+        "Address": {
+            "Address1": "9130 Mathis Avenue",
+            "ShoppingCenter": "Manassas Shopping Center",
+            "City": "Manassas ",
+            "State": "VA",
+            "Zipcode": "22110-0450"
+        },
+        "Latitude": 38.757343,
+        "Longitude": -77.467244,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "368",
+            "LineNumber": "4011",
+            "FormattedPhoneNumber": "(703) 368-4011"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 136,
+        "Address": {
+            "Address1": "18 Fairfax Street, S.E.",
+            "ShoppingCenter": "Virginia Village Shopping Center",
+            "City": "Leesburg ",
+            "State": "VA",
+            "Zipcode": "20175"
+        },
+        "Latitude": 39.108448,
+        "Longitude": -77.565943,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "771",
+            "LineNumber": "2543",
+            "FormattedPhoneNumber": "(703) 771-2543"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 142,
+        "Address": {
+            "Address1": "411-F South Street",
+            "ShoppingCenter": "Royal Plaza Shopping Center",
+            "City": "Front Royal ",
+            "State": "VA",
+            "Zipcode": "22630-2115"
+        },
+        "Latitude": 38.910149,
+        "Longitude": -78.188437,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "540",
+            "Prefix": "635",
+            "LineNumber": "2920",
+            "FormattedPhoneNumber": "(540) 635-2920"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 166,
+        "Address": {
+            "Address1": "506A Fort Evans Road NE",
+            "ShoppingCenter": "Fort Evans Plaza II",
+            "City": "Leesburg ",
+            "State": "VA",
+            "Zipcode": "20176"
+        },
+        "Latitude": 39.107646,
+        "Longitude": -77.530063,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "771",
+            "LineNumber": "9608",
+            "FormattedPhoneNumber": "(703) 771-9608"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 167,
+        "Address": {
+            "Address1": "21 Crow Street",
+            "ShoppingCenter": "",
+            "City": "Berryville ",
+            "State": "VA",
+            "Zipcode": "22611-1327"
+        },
+        "Latitude": 39.15068,
+        "Longitude": -77.982827,
+        "Hours": "Mon-Sat 10 am-7 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "540",
+            "Prefix": "955",
+            "LineNumber": "1411",
+            "FormattedPhoneNumber": "(540) 955-1411"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 168,
+        "Address": {
+            "Address1": "1001 North Fillmore Street",
+            "ShoppingCenter": "Clarendon Self Storage II Complex",
+            "City": "Arlington ",
+            "State": "VA",
+            "Zipcode": "22201"
+        },
+        "Latitude": 38.884607,
+        "Longitude": -77.092621,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "875",
+            "LineNumber": "0135",
+            "FormattedPhoneNumber": "(703) 875-0135"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 170,
+        "Address": {
+            "Address1": "1238 Elden Street",
+            "ShoppingCenter": "Elden St. Market Place Shopping Center",
+            "City": "Herndon ",
+            "State": "VA",
+            "Zipcode": "20170"
+        },
+        "Latitude": 38.96198,
+        "Longitude": -77.400752,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "733",
+            "LineNumber": "2845",
+            "FormattedPhoneNumber": "(703) 733-2845"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 183,
+        "Address": {
+            "Address1": "560 Celebrate Virginia Parkway",
+            "ShoppingCenter": "Celebrate Virginia North Shopping Center",
+            "City": "Fredericksburg ",
+            "State": "VA",
+            "Zipcode": "22406"
+        },
+        "Latitude": 38.358907,
+        "Longitude": -77.522453,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "540",
+            "Prefix": "286",
+            "LineNumber": "1249",
+            "FormattedPhoneNumber": "(540) 286-1249"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 203,
+        "Address": {
+            "Address1": "3678 King Street",
+            "ShoppingCenter": "Bradlee Shopping Center",
+            "City": "Alexandria ",
+            "State": "VA",
+            "Zipcode": "22302-1908"
+        },
+        "Latitude": 38.828736,
+        "Longitude": -77.092034,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "845",
+            "LineNumber": "6374",
+            "FormattedPhoneNumber": "(703) 845-6374"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 208,
+        "Address": {
+            "Address1": "44110 Ashburn Village Boulevard",
+            "ShoppingCenter": "Ashburn Village Shopping Center",
+            "City": "Ashburn ",
+            "State": "VA",
+            "Zipcode": "20147"
+        },
+        "Latitude": 39.044407,
+        "Longitude": -77.474877,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "723",
+            "LineNumber": "0428",
+            "FormattedPhoneNumber": "(703) 723-0428"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 209,
+        "Address": {
+            "Address1": "5055 Jefferson Davis Highway",
+            "ShoppingCenter": "Four Mile Fork Shopping Center",
+            "City": "Fredericksburg ",
+            "State": "VA",
+            "Zipcode": "22408-4263"
+        },
+        "Latitude": 38.256372,
+        "Longitude": -77.498888,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "540",
+            "Prefix": "891",
+            "LineNumber": "4111",
+            "FormattedPhoneNumber": "(540) 891-4111"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 210,
+        "Address": {
+            "Address1": "11160-A South Lakes Drive",
+            "ShoppingCenter": "South Lakes Village Shopping Center",
+            "City": "Reston ",
+            "State": "VA",
+            "Zipcode": "20190"
+        },
+        "Latitude": 38.938879,
+        "Longitude": -77.330609,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "860",
+            "LineNumber": "0715",
+            "FormattedPhoneNumber": "(703) 860-0715"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 212,
+        "Address": {
+            "Address1": "167 Hillwood Avenue",
+            "ShoppingCenter": "Tower Square Shopping Center",
+            "City": "Falls Church ",
+            "State": "VA",
+            "Zipcode": "22046-2913"
+        },
+        "Latitude": 38.879458,
+        "Longitude": -77.171168,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "532",
+            "LineNumber": "5075",
+            "FormattedPhoneNumber": "(703) 532-5075"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 215,
+        "Address": {
+            "Address1": "320 23rd Street South",
+            "ShoppingCenter": "The Buchanan Building",
+            "City": "Arlington ",
+            "State": "VA",
+            "Zipcode": "22202"
+        },
+        "Latitude": 38.852817,
+        "Longitude": -77.051335,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "416",
+            "LineNumber": "0238",
+            "FormattedPhoneNumber": "(703) 416-0238"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 219,
+        "Address": {
+            "Address1": "8413 Old Courthouse Road",
+            "ShoppingCenter": "8415 Building Shopping Center",
+            "City": "Vienna ",
+            "State": "VA",
+            "Zipcode": "22182"
+        },
+        "Latitude": 38.915434,
+        "Longitude": -77.236379,
+        "Hours": "Mon-Sat 9 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "462",
+            "LineNumber": "8536",
+            "FormattedPhoneNumber": "(703) 462-8536"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 224,
+        "Address": {
+            "Address1": "Rt. 50, 13944 Lee Jackson Highway",
+            "ShoppingCenter": "Sully Plaza Shopping Center (Fairfax)",
+            "City": "Chantilly ",
+            "State": "VA",
+            "Zipcode": "20151-3202"
+        },
+        "Latitude": 38.894417,
+        "Longitude": -77.429026,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "803",
+            "LineNumber": "0078",
+            "FormattedPhoneNumber": "(703) 803-0078"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 228,
+        "Address": {
+            "Address1": "1524 Belle View Boulevard",
+            "ShoppingCenter": "Belle View Shopping Center",
+            "City": "Alexandria ",
+            "State": "VA",
+            "Zipcode": "22307-6530"
+        },
+        "Latitude": 38.776114,
+        "Longitude": -77.059633,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "718",
+            "LineNumber": "2337",
+            "FormattedPhoneNumber": "(703) 718-2337"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 231,
+        "Address": {
+            "Address1": "436 East Maple Avenue",
+            "ShoppingCenter": "",
+            "City": "Vienna ",
+            "State": "VA",
+            "Zipcode": "22180-4721"
+        },
+        "Latitude": 38.90904,
+        "Longitude": -77.25623,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "938",
+            "LineNumber": "2476",
+            "FormattedPhoneNumber": "(703) 938-2476"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 234,
+        "Address": {
+            "Address1": "9574-76 Old Keene Mill Road",
+            "ShoppingCenter": "Burke Town Plaza Shopping Center",
+            "City": "Burke ",
+            "State": "VA",
+            "Zipcode": "22015-4208"
+        },
+        "Latitude": 38.778665,
+        "Longitude": -77.27455,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "451",
+            "LineNumber": "2138",
+            "FormattedPhoneNumber": "(703) 451-2138"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 235,
+        "Address": {
+            "Address1": "8628-B Richmond Highway",
+            "ShoppingCenter": "Engleside Plaza Shopping Center",
+            "City": "Alexandria ",
+            "State": "VA",
+            "Zipcode": "22309"
+        },
+        "Latitude": 38.723625,
+        "Longitude": -77.120319,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "360",
+            "LineNumber": "4396",
+            "FormattedPhoneNumber": "(703) 360-4396"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 236,
+        "Address": {
+            "Address1": "7200 Little River Turnpike",
+            "ShoppingCenter": "",
+            "City": "Annandale ",
+            "State": "VA",
+            "Zipcode": "22003-3102"
+        },
+        "Latitude": 38.830155,
+        "Longitude": -77.193313,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "813",
+            "LineNumber": "1357",
+            "FormattedPhoneNumber": "(703) 813-1357"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 241,
+        "Address": {
+            "Address1": "11260 James Swart Circle",
+            "ShoppingCenter": "Fairfax Court Shopping Center",
+            "City": "Fairfax ",
+            "State": "VA",
+            "Zipcode": "22030"
+        },
+        "Latitude": 38.85487,
+        "Longitude": -77.335949,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "385",
+            "LineNumber": "9523",
+            "FormattedPhoneNumber": "(703) 385-9523"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 245,
+        "Address": {
+            "Address1": "1249 Jefferson Davis Highway",
+            "ShoppingCenter": "Eagle Village",
+            "City": "Fredericksburg ",
+            "State": "VA",
+            "Zipcode": "22401"
+        },
+        "Latitude": 38.306365,
+        "Longitude": -77.482005,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "540",
+            "Prefix": "372",
+            "LineNumber": "3564",
+            "FormattedPhoneNumber": "(540) 372-3564"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 248,
+        "Address": {
+            "Address1": "4709-B, Lee Highway",
+            "ShoppingCenter": "",
+            "City": "Arlington ",
+            "State": "VA",
+            "Zipcode": "22207-3406"
+        },
+        "Latitude": 38.89829,
+        "Longitude": -77.122384,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "875",
+            "LineNumber": "0129",
+            "FormattedPhoneNumber": "(703) 875-0129"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 260,
+        "Address": {
+            "Address1": "6284 Arlington Boulevard",
+            "ShoppingCenter": "The Corner at Seven Corners",
+            "City": "Falls Church ",
+            "State": "VA",
+            "Zipcode": "22044"
+        },
+        "Latitude": 38.871681,
+        "Longitude": -77.153502,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "536",
+            "LineNumber": "1182",
+            "FormattedPhoneNumber": "(703) 536-1182"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 264,
+        "Address": {
+            "Address1": "16661 River Ridge Boulevard",
+            "ShoppingCenter": "",
+            "City": "Woodbridge ",
+            "State": "VA",
+            "Zipcode": "22191"
+        },
+        "Latitude": 38.588301,
+        "Longitude": -77.303316,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "221",
+            "LineNumber": "3595",
+            "FormattedPhoneNumber": "(703) 221-3595"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 267,
+        "Address": {
+            "Address1": "1446 Chain Bridge Road",
+            "ShoppingCenter": "McLean Shopping Center",
+            "City": "McLean ",
+            "State": "VA",
+            "Zipcode": "22101-0517"
+        },
+        "Latitude": 38.933096,
+        "Longitude": -77.1797,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "356",
+            "LineNumber": "6066",
+            "FormattedPhoneNumber": "(703) 356-6066"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 268,
+        "Address": {
+            "Address1": "6400 Springfield Plaza",
+            "ShoppingCenter": "Springfield Plaza Shopping Center",
+            "City": "Springfield ",
+            "State": "VA",
+            "Zipcode": "22150-3431"
+        },
+        "Latitude": 38.780916,
+        "Longitude": -77.189435,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "866",
+            "LineNumber": "7835",
+            "FormattedPhoneNumber": "(703) 866-7835"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 271,
+        "Address": {
+            "Address1": "13991 Jefferson Davis Highway",
+            "ShoppingCenter": "Marumsco Plaza",
+            "City": "Woodbridge ",
+            "State": "VA",
+            "Zipcode": "22191"
+        },
+        "Latitude": 38.648819,
+        "Longitude": -77.259331,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "494",
+            "LineNumber": "4335",
+            "FormattedPhoneNumber": "(703) 494-4335"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 273,
+        "Address": {
+            "Address1": "9421 Lorton Market Street",
+            "ShoppingCenter": "Lorton Marketplace Shopping Center",
+            "City": "Lorton ",
+            "State": "VA",
+            "Zipcode": "22079"
+        },
+        "Latitude": 38.702475,
+        "Longitude": -77.220095,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "372",
+            "LineNumber": "2929",
+            "FormattedPhoneNumber": "(703) 372-2929"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 286,
+        "Address": {
+            "Address1": "7555 Linton Hall Road",
+            "ShoppingCenter": "Gateway Center",
+            "City": "Gainesville ",
+            "State": "VA",
+            "Zipcode": "20155"
+        },
+        "Latitude": 38.793431,
+        "Longitude": -77.608861,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "753",
+            "LineNumber": "0713",
+            "FormattedPhoneNumber": "(703) 753-0713"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 294,
+        "Address": {
+            "Address1": "3556E South Jefferson Street",
+            "ShoppingCenter": "Crossroads Place Shopping Center",
+            "City": "Bailey's Crossroads ",
+            "State": "VA",
+            "Zipcode": "22041-3106"
+        },
+        "Latitude": 38.848167,
+        "Longitude": -77.118158,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "845",
+            "LineNumber": "6373",
+            "FormattedPhoneNumber": "(703) 845-6373"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 295,
+        "Address": {
+            "Address1": "8095 Sudley Road",
+            "ShoppingCenter": "Westgate Plaza Shopping Center",
+            "City": "Manassas ",
+            "State": "VA",
+            "Zipcode": "20109-8001"
+        },
+        "Latitude": 38.781261,
+        "Longitude": -77.509661,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "361",
+            "LineNumber": "2849",
+            "FormattedPhoneNumber": "(703) 361-2849"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 301,
+        "Address": {
+            "Address1": "4292 Merchants Plaza",
+            "ShoppingCenter": "The Glen Shopping Center",
+            "City": "Woodbridge ",
+            "State": "VA",
+            "Zipcode": "22192-5251"
+        },
+        "Latitude": 38.674578,
+        "Longitude": -77.335039,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "680",
+            "LineNumber": "0232",
+            "FormattedPhoneNumber": "(703) 680-0232"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 303,
+        "Address": {
+            "Address1": "175 Lee Highway",
+            "ShoppingCenter": "Warrenton Village Shopping Center",
+            "City": "Warrenton ",
+            "State": "VA",
+            "Zipcode": "20186-2107"
+        },
+        "Latitude": 38.730251,
+        "Longitude": -77.796458,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "540",
+            "Prefix": "347",
+            "LineNumber": "6353",
+            "FormattedPhoneNumber": "(540) 347-6353"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 313,
+        "Address": {
+            "Address1": "4185 Plank Road",
+            "ShoppingCenter": "Chancellor Shopping Center",
+            "City": "Fredericksburg ",
+            "State": "VA",
+            "Zipcode": "22407"
+        },
+        "Latitude": 38.289229,
+        "Longitude": -77.532809,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "540",
+            "Prefix": "786",
+            "LineNumber": "0917",
+            "FormattedPhoneNumber": "(540) 786-0917"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 316,
+        "Address": {
+            "Address1": "4108 Fortuna Center Plaza",
+            "ShoppingCenter": "Fortuna Village Center",
+            "City": "Dumfries ",
+            "State": "VA",
+            "Zipcode": "22026"
+        },
+        "Latitude": 38.596043,
+        "Longitude": -77.331999,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "580",
+            "LineNumber": "8351",
+            "FormattedPhoneNumber": "(703) 580-8351"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 317,
+        "Address": {
+            "Address1": "9600E Main Street",
+            "ShoppingCenter": "Fair City Mall Shopping Center",
+            "City": "Fairfax ",
+            "State": "VA",
+            "Zipcode": "22031"
+        },
+        "Latitude": 38.842479,
+        "Longitude": -77.274473,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "323",
+            "LineNumber": "2417",
+            "FormattedPhoneNumber": "(703) 323-2417"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 319,
+        "Address": {
+            "Address1": "2435 North Harrison Street",
+            "ShoppingCenter": "Lee Harrison Shopping Center",
+            "City": "Arlington ",
+            "State": "VA",
+            "Zipcode": "22207"
+        },
+        "Latitude": 38.897129,
+        "Longitude": -77.138092,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "241",
+            "LineNumber": "0291",
+            "FormattedPhoneNumber": "(703) 241-0291"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 322,
+        "Address": {
+            "Address1": "14151 St. Germain Drive",
+            "ShoppingCenter": "Centrewood Plaza Shopping Center",
+            "City": "Centreville ",
+            "State": "VA",
+            "Zipcode": "20121"
+        },
+        "Latitude": 38.836689,
+        "Longitude": -77.440944,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "803",
+            "LineNumber": "0081",
+            "FormattedPhoneNumber": "(703) 803-0081"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 323,
+        "Address": {
+            "Address1": "201 N. Maple Street",
+            "ShoppingCenter": "Purcellville Plaza Shopping Center",
+            "City": "Purcellville ",
+            "State": "VA",
+            "Zipcode": "20132"
+        },
+        "Latitude": 39.138315,
+        "Longitude": -77.705724,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "540",
+            "Prefix": "751",
+            "LineNumber": "2144",
+            "FormattedPhoneNumber": "(540) 751-2144"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 346,
+        "Address": {
+            "Address1": "8105 Lee Highway",
+            "ShoppingCenter": "Merrifield Plaza Shopping Center",
+            "City": "Falls Church ",
+            "State": "VA",
+            "Zipcode": "22042-1111"
+        },
+        "Latitude": 38.874104,
+        "Longitude": -77.225266,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "207",
+            "LineNumber": "7399",
+            "FormattedPhoneNumber": "(703) 207-7399"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 352,
+        "Address": {
+            "Address1": "2555 John Milton Drive",
+            "ShoppingCenter": "Fox Mill Shopping Center",
+            "City": "Herndon ",
+            "State": "VA",
+            "Zipcode": "20171"
+        },
+        "Latitude": 38.926401,
+        "Longitude": -77.37557,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "860",
+            "LineNumber": "4080",
+            "FormattedPhoneNumber": "(703) 860-4080"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 353,
+        "Address": {
+            "Address1": "4255 Cheshire Plaza",
+            "ShoppingCenter": "Cheshire Station Shopping Center",
+            "City": "Dale City ",
+            "State": "VA",
+            "Zipcode": "22193"
+        },
+        "Latitude": 38.645091,
+        "Longitude": -77.333531,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "670",
+            "LineNumber": "3231",
+            "FormattedPhoneNumber": "(703) 670-3231"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 357,
+        "Address": {
+            "Address1": "1454 North Point Village Shopping Center",
+            "ShoppingCenter": "North Point Village Shopping Center",
+            "City": "Reston ",
+            "State": "VA",
+            "Zipcode": "20194"
+        },
+        "Latitude": 38.97886,
+        "Longitude": -77.350258,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "437",
+            "LineNumber": "6433",
+            "FormattedPhoneNumber": "(703) 437-6433"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 362,
+        "Address": {
+            "Address1": "100 Edds Lane",
+            "ShoppingCenter": "Countryside Shopping Center",
+            "City": "Sterling ",
+            "State": "VA",
+            "Zipcode": "20165"
+        },
+        "Latitude": 39.04025,
+        "Longitude": -77.412196,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "450",
+            "LineNumber": "2635",
+            "FormattedPhoneNumber": "(703) 450-2635"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 367,
+        "Address": {
+            "Address1": "20070 Ashbrook Commons Plaza",
+            "ShoppingCenter": "Ashbrook Commons Plaza",
+            "City": "Ashburn ",
+            "State": "VA",
+            "Zipcode": "20147"
+        },
+        "Latitude": 39.060958,
+        "Longitude": -77.470525,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "723",
+            "LineNumber": "0216",
+            "FormattedPhoneNumber": "(703) 723-0216"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 368,
+        "Address": {
+            "Address1": "10308 Willard Way",
+            "ShoppingCenter": "Courthouse Plaza Shopping Center",
+            "City": "Fairfax ",
+            "State": "VA",
+            "Zipcode": "22030"
+        },
+        "Latitude": 38.848466,
+        "Longitude": -77.302594,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "934",
+            "LineNumber": "7480",
+            "FormattedPhoneNumber": "(703) 934-7480"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 369,
+        "Address": {
+            "Address1": "6343A Columbia Pike",
+            "ShoppingCenter": "Barcroft Plaza Shopping Center",
+            "City": "Falls Church ",
+            "State": "VA",
+            "Zipcode": "22041"
+        },
+        "Latitude": 38.836465,
+        "Longitude": -77.154987,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "813",
+            "LineNumber": "1313",
+            "FormattedPhoneNumber": "(703) 813-1313"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 371,
+        "Address": {
+            "Address1": "5739 Burke Centre Parkway",
+            "ShoppingCenter": "Burke Centre Shopping Center",
+            "City": "Burke ",
+            "State": "VA",
+            "Zipcode": "22015"
+        },
+        "Latitude": 38.799483,
+        "Longitude": -77.320449,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "323",
+            "LineNumber": "2455",
+            "FormattedPhoneNumber": "(703) 323-2455"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 372,
+        "Address": {
+            "Address1": "3161 Duke Street",
+            "ShoppingCenter": "Alexandria Commons Shopping Center",
+            "City": "Alexandria ",
+            "State": "VA",
+            "Zipcode": "22314"
+        },
+        "Latitude": 38.808924,
+        "Longitude": -77.085823,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "823",
+            "LineNumber": "4111",
+            "FormattedPhoneNumber": "(703) 823-4111"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 374,
+        "Address": {
+            "Address1": "2955A South Glebe Road",
+            "ShoppingCenter": "Arlington Ridge Shopping Center",
+            "City": "Arlington ",
+            "State": "VA",
+            "Zipcode": "22206"
+        },
+        "Latitude": 38.84549,
+        "Longitude": -77.067726,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "518",
+            "LineNumber": "2412",
+            "FormattedPhoneNumber": "(703) 518-2412"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 378,
+        "Address": {
+            "Address1": "2940 Columbia Pike",
+            "ShoppingCenter": "The Halstead Building",
+            "City": "Arlington ",
+            "State": "VA",
+            "Zipcode": "22204"
+        },
+        "Latitude": 38.862299,
+        "Longitude": -77.087543,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "521",
+            "LineNumber": "1210",
+            "FormattedPhoneNumber": "(703) 521-1210"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 384,
+        "Address": {
+            "Address1": "5109 Westfields Boulevard",
+            "ShoppingCenter": "Sully Station Shopping Center",
+            "City": "Centreville ",
+            "State": "VA",
+            "Zipcode": "20120"
+        },
+        "Latitude": 38.867183,
+        "Longitude": -77.446924,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "803",
+            "LineNumber": "0006",
+            "FormattedPhoneNumber": "(703) 803-0006"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 385,
+        "Address": {
+            "Address1": "9575 Braddock Road",
+            "ShoppingCenter": "Twinbrooke Center Shopping Center",
+            "City": "Fairfax ",
+            "State": "VA",
+            "Zipcode": "22032"
+        },
+        "Latitude": 38.817464,
+        "Longitude": -77.275998,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "323",
+            "LineNumber": "2104",
+            "FormattedPhoneNumber": "(703) 323-2104"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 387,
+        "Address": {
+            "Address1": "135 Crooked Run Plaza",
+            "ShoppingCenter": "Crooked Run Center",
+            "City": "Front Royal ",
+            "State": "VA",
+            "Zipcode": "22630"
+        },
+        "Latitude": 38.965651,
+        "Longitude": -78.192193,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "540",
+            "Prefix": "631",
+            "LineNumber": "0857",
+            "FormattedPhoneNumber": "(540) 631-0857"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    },
+    {
+        "StoreId": 388,
+        "Address": {
+            "Address1": "8150 Leesburg Pike",
+            "ShoppingCenter": "",
+            "City": "Vienna ",
+            "State": "VA",
+            "Zipcode": "22182"
+        },
+        "Latitude": 38.916404,
+        "Longitude": -77.22714,
+        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
+        "PhoneNumber": {
+            "AreaCode": "703",
+            "Prefix": "873",
+            "LineNumber": "3102",
+            "FormattedPhoneNumber": "(703) 873-3102"
+        },
+        "Distance": 0,
+        "Wholesale": false,
+        "CounterService": false
+    }
+]

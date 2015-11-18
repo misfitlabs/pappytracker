@@ -8,7 +8,7 @@ import os
 
 filename = "data_dumps/" + str(time.strftime('%b%d-%Y-%H%M%S')) + '.txt'
 f = open(filename, 'a+')
-with open('va_stores.json') as file:
+with open('resources/local_stores.json') as file:
     data = json.load(file)
     count = 0
     for store in data:
