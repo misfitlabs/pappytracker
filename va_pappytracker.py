@@ -1,10 +1,13 @@
 import json
-import smtplib
-import requests
-import constants as c
-from email.mime.text import MIMEText
-import time
 import os
+import smtplib
+import time
+from email.mime.text import MIMEText
+
+import requests
+
+from resources import credentials as cred
+from resources import constants as const
 
 filename = "data_dumps/" + str(time.strftime('%b%d-%Y-%H%M%S')) + '.txt'
 f = open(filename, 'a+')
@@ -13,7 +16,7 @@ with open('resources/local_stores.json') as file:
     count = 0
     for store in data:
 
-        for product_name, product_id in c.products.iteritems():
+        for product_name, product_id in const.products.iteritems():
             try:
                 r = requests.get("https://www.abc.virginia.gov/api/stores/inventory/" + str(store["StoreId"]) + "/" + product_id)
             except IOError as err:
@@ -40,9 +43,9 @@ if os.stat(filename).st_size > 0:
     server = smtplib.SMTP('smtp.gmail.com', 587)
     server.ehlo()
     server.starttls()
-    server.login(c.email_addr, c.email_pwd)
+    server.login(cred.email_addr, cred.email_pwd)
 
     msg['Subject'] = 'dat pappy'
     msg['To'] = 'Bourbon Ninjas'
 
-    server.sendmail(c.email_addr, c.recipients, msg.as_string())
+    server.sendmail(cred.email_addr, cred.recipients, msg.as_string())
