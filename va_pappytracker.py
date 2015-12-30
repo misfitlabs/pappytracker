@@ -6,7 +6,7 @@ from email.mime.text import MIMEText
 
 import requests
 
-from resources import credentials as cred
+import resources.credentials as cred
 from resources import constants as const
 
 filename = "data_dumps/" + str(time.strftime('%b%d-%Y-%H%M%S')) + '.txt'
