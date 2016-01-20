@@ -5,11 +5,11 @@ import time
 from email.mime.text import MIMEText
 
 import requests
-
 import resources.credentials as cred
 from resources import constants as const
 
-filename = "data_dumps/" + str(time.strftime('%b%d-%Y-%H%M%S')) + '.txt'
+filepath = os.path.dirname(os.path.abspath(__file__))
+filename = filepath + "/data_dumps/" + str(time.strftime('%b%d-%Y-%H%M%S')) + '.txt'
 f = open(filename, 'a+')
 with open('resources/local_stores.json') as file:
     data = json.load(file)
