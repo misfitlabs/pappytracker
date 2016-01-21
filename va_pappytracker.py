@@ -11,7 +11,7 @@ from resources import constants as const
 filepath = os.path.dirname(os.path.abspath(__file__))
 filename = filepath + "/data_dumps/" + str(time.strftime('%b%d-%Y-%H%M%S')) + '.txt'
 f = open(filename, 'a+')
-with open('resources/local_stores.json') as file:
+with open(filepath + '/resources/local_stores.json') as file:
     data = json.load(file)
     count = 0
     for store in data:
