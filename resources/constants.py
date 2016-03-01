@@ -22,11 +22,11 @@ products = {
     'EH Taylor Small Batch': '021602',
     'EH Taylor Jr Barrel Proof': '021600',
     'EH Taylor Jr Straight Rye': '027101',
+    'Buffalo Trace 1.75L': '018008'
 }
 
 # products = {'Ancient Age 10y 1.75L': '016538',
 #             'Ancient Age 10y': '016537'}
-#     'Buffalo Trace 1.75L': '018008'
 
 # products = {'Elijah Craig': '017916',
 #             'Elijah Craig 12y': '017919'}
