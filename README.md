@@ -1,3 +1,3 @@
 # pappytracker
 
-Tracking rare liquors in Virginia ABC stores.
+Tracking rare liquors in Virginia.
