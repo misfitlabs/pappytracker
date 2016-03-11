@@ -20,6 +20,7 @@ products = {
     'Elmer T. Lee': '017946',
     'Stagg Jr.': '021540',
     'EH Taylor Small Batch': '021602',
+    'EH Taylor Seasoned Wood': '021603',
     'EH Taylor Jr Barrel Proof': '021600',
     'EH Taylor Jr Straight Rye': '027101',
     'Buffalo Trace 1.75L': '018008'
