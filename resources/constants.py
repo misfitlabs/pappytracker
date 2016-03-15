@@ -24,6 +24,7 @@ products = {
     'EH Taylor Jr Barrel Proof': '021600',
     'EH Taylor Jr Straight Rye': '027101',
     'Buffalo Trace 1.75L': '018008'
+    'EH Taylor Seasoned Wood': '021603',
 }
 
 # products = {'Ancient Age 10y 1.75L': '016538',
