@@ -22,7 +22,7 @@ products = {
     'EH Taylor Small Batch': '021602',
     'EH Taylor Jr Barrel Proof': '021600',
     'EH Taylor Jr Straight Rye': '027101',
-    'Buffalo Trace 1.75L': '018008'
+    'Buffalo Trace 1.75L': '018008',
     'EH Taylor Seasoned Wood': '021603',
     'Yellowstone 105 7yr': '022246',
 }
