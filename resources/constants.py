@@ -25,10 +25,10 @@ products = {
     'Buffalo Trace 1.75L': '018008',
     'EH Taylor Seasoned Wood': '021603',
     'Yellowstone 105 7yr': '022246',
-    'WL Weller Mystery 1': '022036',
-    'WL Weller Mystery 2': '021976',
-    'WL Weller Mystery 3': '950044',
-    'WL Weller Mystery 4': '950234'
+    'WL Weller Antique': '022036',
+    'WL Weller Centennial': '021976',
+    'WL Weller 12 Year': '950044',
+    'WL Weller Special Reserve': '950234'
 }
 
 # products = {'Ancient Age 10y 1.75L': '016538',
