@@ -11,7 +11,7 @@ from resources import constants as const
 filepath = os.path.dirname(os.path.abspath(__file__))
 filename = filepath + "/data_dumps/" + str(time.strftime('%b%d-%Y-%H%M%S')) + '.txt'
 f = open(filename, 'a+')
-with open(filepath + '/resources/local_stores.json') as file:
+with open(filepath + '/resources/va_stores.json') as file:
     data = json.load(file)
     count = 0
     for store in data:
@@ -30,7 +30,8 @@ with open(filepath + '/resources/local_stores.json') as file:
                     f.write("Phone: " + store["PhoneNumber"]["FormattedPhoneNumber"] + "\n")
                     f.write("\n")
             else:
-                # r.raise_for_status()
+                f.write("Inventory request on store #" + str(resp["products"][0]["storeInfo"]["storeId"]) + " failed.")
+                f.write("\n")
                 continue
         count += 1
 f.close()
@@ -45,7 +46,7 @@ if os.stat(filename).st_size > 0:
     server.starttls()
     server.login(cred.email_addr, cred.email_pwd)
 
-    msg['Subject'] = 'dat pappy'
+    msg['Subject'] = 'Virginia Rare Bourbons: ' + str(time.strftime('%b%d-%Y-%H%M%S'))
     msg['To'] = 'Bourbon Ninjas'
 
     server.sendmail(cred.email_addr, cred.recipients, msg.as_string())
