@@ -1,8 +1,6 @@
 products = {
     'Old Forester Birthday': '000517',
-    'Old Forester Birthday 2014': '000811',
     'Knob Creek LE 2001': '019240',
-    'Blood Oath': '016860',
     'Four Roses LE Small Batch': '018361',
     'Four Roses LE Small Batch Barrel': '018365',
     'Lost Prophet': '019456',
@@ -20,14 +18,8 @@ products = {
     'William Larue Weller': '022086',
     'Elmer T. Lee': '017946',
     'Stagg Jr.': '021540',
-    'EH Taylor Small Batch': '021602',
-    'EH Taylor Single Barrel': '952796',
     'EH Taylor Barrel Proof': '021600',
-    'EH Taylor Straight Rye': '027101',
-    'EH Taylor Seasoned Wood': '021603',
-    'Yellowstone 105 7yr': '022246',
     'WL Weller Antique': '022036',
-    'WL Weller Centennial': '021976',
     'WL Weller 12 Year': '950044',
     'WL Weller Special Reserve': '950234'
 }
@@ -41,3 +33,13 @@ products = {
 # products = {'Buffalo Trace 1.75L': '018008'}
 
 # products = {'Sazerac Rye 6yr': '027100'}
+
+# products = {'Yellowstone 105 7yr': '022246',
+#             'EH Taylor Small Batch': '021602',
+#             'EH Taylor Single Barrel': '952796',
+#             'EH Taylor Straight Rye': '027101',
+#             'EH Taylor Seasoned Wood': '021603',
+#             'Old Forester Birthday 2014': '000811',
+#             'Blood Oath': '016860',
+#             'WL Weller Centennial': '021976',
+# }
