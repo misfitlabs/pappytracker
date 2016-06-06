@@ -17,7 +17,6 @@ products = {
     'Sazerac Rye 18yr': '027096',
     'William Larue Weller': '022086',
     'Elmer T. Lee': '017946',
-    'Stagg Jr.': '021540',
     'EH Taylor Barrel Proof': '021600',
     'WL Weller Antique': '022036',
     'WL Weller 12 Year': '950044',
@@ -43,3 +42,5 @@ products = {
 #             'Blood Oath': '016860',
 #             'WL Weller Centennial': '021976',
 # }
+
+#     'Stagg Jr.': '021540',
