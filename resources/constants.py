@@ -1,6 +1,5 @@
 products = {
     'Old Forester Birthday': '000517',
-    'Knob Creek LE 2001': '019240',
     'Four Roses LE Small Batch': '018361',
     'Four Roses LE Small Batch Barrel': '018365',
     'Lost Prophet': '019456',
@@ -16,7 +15,6 @@ products = {
     'Eagle Rare 17yr': '017756',
     'Sazerac Rye 18yr': '027096',
     'William Larue Weller': '022086',
-    'Elmer T. Lee': '017946',
     'EH Taylor Barrel Proof': '021600',
     'WL Weller Antique': '022036',
     'WL Weller 12 Year': '950044',
@@ -43,4 +41,6 @@ products = {
 #             'WL Weller Centennial': '021976',
 # }
 
-#     'Stagg Jr.': '021540',
+#    'Stagg Jr.': '021540',
+#    'Knob Creek LE 2001': '019240',
+#    'Elmer T. Lee': '017946',
