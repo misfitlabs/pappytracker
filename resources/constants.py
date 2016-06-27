@@ -3,7 +3,6 @@ products = {
     'Four Roses LE Small Batch': '018361',
     'Four Roses LE Small Batch Barrel': '018365',
     'Lost Prophet': '019456',
-    'Elijah Craig Barrel Proof': '017914',
     'Elijah Craig 18y': '017920',
     'Elijah Craig 21y': '017923',
     'Elijah Craig 23y': '017925',
@@ -44,3 +43,4 @@ products = {
 #    'Stagg Jr.': '021540',
 #    'Knob Creek LE 2001': '019240',
 #    'Elmer T. Lee': '017946',
+#    'Elijah Craig Barrel Proof': '017914',

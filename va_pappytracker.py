@@ -19,10 +19,10 @@ with open(filepath + '/resources/va_stores.json') as file:
         for product_name, product_id in const.products.iteritems():
             try:
                 r = requests.get("https://www.abc.virginia.gov/api/stores/inventory/" + str(store["StoreId"]) + "/" + product_id)
-            except IOError as err:
+                resp = r.json()
+            except (IOError, ValueError) as err:
                 continue
 
-            resp = r.json()
             if r.status_code == requests.codes.ok:
                 if resp["products"][0]["storeInfo"]["quantity"] > 0:
                     f.write(str(count) + " of 352: Store " + str(resp["products"][0]["storeInfo"]["storeId"]) + " has " +
