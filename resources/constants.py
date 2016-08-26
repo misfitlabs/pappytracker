@@ -18,7 +18,8 @@ products = {
     'WL Weller Antique': '022036',
     'WL Weller 12 Year': '950044',
     'WL Weller Special Reserve': '950234',
-    'Sazerac Rye 6yr': '027100'
+    'Sazerac Rye 6yr': '027100',
+    'Buffalo Trace Experimental': '0953565'
 }
 
 # products = {'Ancient Age 10y 1.75L': '016538',
