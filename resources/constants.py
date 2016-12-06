@@ -6,6 +6,7 @@ products = {
     'Elijah Craig 18y': '017920',
     'Elijah Craig 21y': '017923',
     'Elijah Craig 23y': '017925',
+    'Elijah Craig Barrel Proof': '017914',
     #'Pappy Van Winkle 20yr': '017756',
     #'Pappy Van Winkle 15yr': '020150',
     #'Van Winkle Special Reserve 12yr': '021906',
@@ -23,9 +24,8 @@ products = {
     'WL Weller 12 Year': '950044',
     'WL Weller Special Reserve': '950234',
     'Sazerac Rye 6yr': '027100',
-    'Buffalo Trace Experimental': '0953565'
-    #'Stagg Jr.': '021540',
+    'Buffalo Trace Experimental': '0953565',
+    'Stagg Jr.': '021540',
     #'Knob Creek LE 2001': '019240',
-    #'Elmer T. Lee': '017946',
-    #'Elijah Craig Barrel Proof': '017914',
+    'Elmer T. Lee': '017946'
 }
