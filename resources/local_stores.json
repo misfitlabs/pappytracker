@@ -110,28 +110,6 @@
         "CounterService": false
     },
     {
-        "StoreId": 45,
-        "Address": {
-            "Address1": "8428 Old Keene Mill Road",
-            "ShoppingCenter": "OLD KEENE MILL S.C.",
-            "City": "Springfield ",
-            "State": "VA",
-            "Zipcode": "22152"
-        },
-        "Latitude": 38.779667,
-        "Longitude": -77.236372,
-        "Hours": "Mon-Sat 10 am-9 pm / Sun 1-6 pm",
-        "PhoneNumber": {
-            "AreaCode": "703",
-            "Prefix": "569",
-            "LineNumber": "3945",
-            "FormattedPhoneNumber": "(703) 569-3945"
-        },
-        "Distance": 0,
-        "Wholesale": false,
-        "CounterService": false
-    },
-    {
         "StoreId": 49,
         "Address": {
             "Address1": "881 North Quincy Street",

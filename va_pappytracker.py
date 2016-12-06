@@ -18,9 +18,11 @@ with open(filepath + '/resources/va_stores.json') as file:
 
         for product_name, product_id in const.products.iteritems():
             try:
-                r = requests.get("https://www.abc.virginia.gov/api/stores/inventory/" + str(store["StoreId"]) + "/" + product_id)
+                r = requests.get("https://www.abc.virginia.gov/api/stores/inventory/mystore/" + str(store["StoreId"]) + "/" + product_id, timeout=5)
                 resp = r.json()
             except (IOError, ValueError) as err:
+                print err
+                print 'Request String:' + 'https://www.abc.virginia.gov/api/stores/inventory/mystore/' + str(store["StoreId"]) + "/" + product_id
                 continue
 
             if r.status_code == requests.codes.ok:
