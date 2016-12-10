@@ -22,7 +22,7 @@ with open(filepath + '/resources/va_stores.json') as file:
                 resp = r.json()
             except (IOError, ValueError) as err:
                 print err
-                print 'Request String:' + 'https://www.abc.virginia.gov/api/stores/inventory/mystore/' + str(store["StoreId"]) + "/" + product_id
+                print 'Store ' + str(store["StoreId"]) + " timed out for product " + product_id
                 continue
 
             if r.status_code == requests.codes.ok:
