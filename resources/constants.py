@@ -1,7 +1,7 @@
 products = {
     #'Old Forester Birthday': '000517',
-    'Four Roses LE Small Batch': '018361',
-    'Four Roses LE Small Batch Barrel': '018365',
+    #'Four Roses LE Small Batch': '018361',
+    #'Four Roses LE Small Batch Barrel': '018365',
     'Lost Prophet': '019456',
     'Elijah Craig 18y': '017920',
     'Elijah Craig 21y': '017923',
@@ -19,7 +19,7 @@ products = {
     #'EH Taylor Single Barrel': '952796',
     #'EH Taylor Straight Rye': '027101',
     #'EH Taylor Seasoned Wood': '021603',
-    'EH Taylor Barrel Proof': '021600',
+    #'EH Taylor Barrel Proof': '021600',
     'WL Weller Antique': '022036',
     'WL Weller 12 Year': '950044',
     'WL Weller Special Reserve': '950234',
