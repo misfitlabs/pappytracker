@@ -21,7 +21,7 @@ for product_name, product_id in const.products.iteritems():
         productString = productString + "," + product_id
 
 f = open(filename, 'a+')
-with open(filepath + '/resources/local_stores.json') as file:
+with open(filepath + '/resources/va_stores.json') as file:
     data = json.load(file)
     for store in data:
         try:
